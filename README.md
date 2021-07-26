@@ -1,5 +1,12 @@
 Translated to English & Updated by Ren232.
 
+<h1> Credits </h1>
+-This repo belongs to Ren232                                                                                                     
+
+-I only updated the repo
+
+-Real Repo https://github.com/Ren232/mcgg
+
 <h1> Features </h1>
 - You can access the file manager of the server.<br>
 - Console<br>- Admin panel with account registration<br>
