@@ -1,0 +1,9 @@
+#!/bin/sh
+
+cat <<EOF
+---
+addons:
+  - jawsdb:kitefin
+  - scheduler:standard
+  - coralogix:free
+EOF
