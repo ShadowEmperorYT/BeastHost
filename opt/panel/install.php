@@ -88,7 +88,7 @@ if (!empty($_POST['user'])) {
 						<input class="span2" type="number" name="ram" id="ram" value="512">
 						<span class="add-on">MB</span>
 					</div>
-					<span class="text-info">0 MB = No Server</span>
+					<span class="text-info">Max ram is 512 entering more = delte the server</span>
 				</div>
 			</div>
 			<div class="control-group">
